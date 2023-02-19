@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @omg14
 - 👀 I’m interested in coding , games and learning new stuff .
-- 🌱 I’m currently learning C++ & Python including OOPS , DSA .
-- 💞️ I’m looking to collaborate on Projects .
-- 📫 How to reach me : Email
+- 🌱 I’m currently learning C++ & Python and have keen interest interest in Machine Learning .
+- 📫 How to reach me : omg14161416@gmail.com
 
 <!---
 omg14/omg14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
